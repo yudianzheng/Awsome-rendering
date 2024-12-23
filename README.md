@@ -13,8 +13,7 @@
 
 
 ### Image Based Rendering(Nerf and 3DGS)
-
-  ### Implicit Representation
-  ### Explicit Representation
+#### Implicit Representation
+#### Explicit Representation
 
 
