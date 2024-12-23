@@ -1,5 +1,4 @@
-# Awsome-rendering
-
+# Awsome-rendering <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
 - [Phycially Based Rendering with Neural Network](#Phycially-Based-Rendering-with-Neural-Network)
@@ -8,11 +7,11 @@
   - [Explicit Representation](#Explicit-Representation)
  
 
-### Phycially Based Rendering with Neural Network
+### Phycially Based Rendering with Neural Network <!-- omit in toc -->
 
 
 
-### Image Based Rendering(Nerf and 3DGS)
+### Image Based Rendering(Nerf and 3DGS) <!-- omit in toc -->
 #### Implicit Representation
 + [Nerf: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf)
 #### Explicit Representation
