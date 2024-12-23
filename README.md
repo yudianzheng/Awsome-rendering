@@ -3,16 +3,16 @@
 
 ## Table of Contents <!-- omit in toc -->
 - [Phycially Based Rendering with Neural Network](#Phycially-Based-Rendering-with-Neural-Network)
-- [Image Based Rendering](#Image-Based-Rendering)
-  - [Implicit Representation(Nerf)](#Implicit-Representation(Nerf))
-  - [Explicit Representation(3DGS)](#Explicit-Representation(3DGS))
+- [Image Based Rendering(Nerf and 3DGS)](#Image-Based-Rendering(Nerf-and-3DGS))
+  - [Implicit Representation](#Implicit-Representation)
+  - [Explicit Representation](#Explicit-Representation)
  
 
-### PBR-rendering with neural network
+### Phycially Based Rendering with Neural Network
 
 
 
-### IBR-rendering
+### Image Based Rendering(Nerf and 3DGS)
 
   ### Implicit Representation
   ### Explicit Representation
