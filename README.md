@@ -2,10 +2,10 @@
 
 
 ## Table of Contents <!-- omit in toc -->
-- [PBR-rendering with neural network](Phycially Based Rendering with Neural Network)
-- [IBR-rendering](Image Based Rendering)
-  - [Implicit Representation: Nerf](Neural Radiance Field)
-  - [Explicit Representation: 3DGS](3D Gaussian Splatting)
+- [Phycially Based Rendering with Neural Network](#Phycially-Based-Rendering-with-Neural-Network)
+- [Image Based Rendering](#Image-Based-Rendering)
+  - [Implicit Representation(Nerf)](#Implicit-Representation(Nerf))
+  - [Explicit Representation(3DGS)](#Explicit-Representation(3DGS))
  
 
 ### PBR-rendering with neural network
